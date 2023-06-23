@@ -21,5 +21,5 @@ audio{display: none;}
 #copyright a{color:#666}
 #icon{font-size: 48px;color: red;margin: 50 px; align-content: center;}
 #heartspan{align-content: center;text-align: center;margin: 20px;}
-#heartspan_music{align-content: center;text-align: center;margin:600px;}
+#heartspan_music{align-content: center;text-align: center;left-margin:400px;}
 #icon_music{font-size: 98px;color: rgba(245, 0, 171, 0.815); align-content: center;}
